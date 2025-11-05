@@ -3,7 +3,7 @@ import CredentialsProvider from 'next-auth/providers/credentials';
 import connectDB from '@/lib/dbConnect';
 import User from '@/models/User';
 
-export const authOptions = {
+const authOptions = {
   session: {
     strategy: 'jwt',
   },
