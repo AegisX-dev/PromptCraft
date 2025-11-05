@@ -6,7 +6,7 @@
 
 ## 🔴 Live Demo
 
-**[YOUR LIVE DEMO LINK HERE - e.g., promptcraft.vercel.app]**
+(https://prompt-craft-beryl.vercel.app/)
 
 ---
 
