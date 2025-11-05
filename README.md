@@ -2,11 +2,11 @@
 
 > An AI co-founder that turns your vague MERN/NEXT.js ideas into expert-level meta-prompts for your coding AI.
 
-[YOUR HERO GIF HERE: A 10-second GIF showing the "MERN Twitter Clone" example. Show the "Basic" text output, then toggle to the "Pro" mode and show the beautiful, structured "Catalyst" meta-prompt being generated.]
+![PromptCraft Hero Demo](https://raw.githubusercontent.com/AegisX-dev/PromptCraft/main/assets/hero-demo.gif)
 
 ## 🔴 Live Demo
 
-(https://prompt-craft-beryl.vercel.app/)
+**[https://prompt-craft-beryl.vercel.app/](https://prompt-craft-beryl.vercel.app/)**
 
 ---
 
